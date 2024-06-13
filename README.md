@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AK-47-GIT
-- 👀 I’m interested in ...learning new technologies
-- 🌱 I’m currently learning ...selenium
-- 💞️ I’m looking to collaborate on ...selenium
+- 👀 I’m interested in learning the new technologies and new challenges.
+- 🌱 I’m currently working on the java selenium project 
 - 📫 How to reach me ...talapalli.ashok@gmail.com
 
 <!---
